@@ -212,7 +212,7 @@
 			{
 				"streamName": "BG Music",
 				"streamIcon": "🔊",
-				"streamVolume": 16,
+				"streamVolume": 13,
 				"streamFade": true,
 				"streamFadeTime": 5,
 				"folderId": 2,
@@ -236,7 +236,7 @@
 			{
 				"streamName": "Ambience",
 				"streamIcon": "⛰️",
-				"streamVolume": 100,
+				"streamVolume": 16,
 				"streamFade": true,
 				"streamFadeTime": 3,
 				"id": 3456,
@@ -309,7 +309,7 @@
 			{
 				"streamName": "Creepy Dungeon ",
 				"streamIcon": "😀",
-				"streamVolume": 38,
+				"streamVolume": 100,
 				"streamFade": true,
 				"streamFadeTime": 3,
 				"id": 8469,
@@ -322,6 +322,78 @@
 						"link": "https://youtu.be/KZNoPUbaVnk?si=wetO891OGS6gQVkD",
 						"volume": 46,
 						"id": 9277,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Lost Temple Ruins Music",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 7882,
+				"folderId": 2,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Lost Temple Ruins Music",
+						"link": "https://youtu.be/cr7MHs7DyXA?si=xjDHVXZrlfQGGVjc",
+						"volume": 100,
+						"id": 3008,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Abandoned Ruins Music",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 6347,
+				"folderId": 2,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Abandoned Ruins Music",
+						"link": "https://youtu.be/205meIww0zg?si=nZTuX4269jXCqM78",
+						"volume": 100,
+						"id": 3331,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Dungeon Boss Fight Music",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 1673,
+				"folderId": 2,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Dungeon Boss Fight Music",
+						"link": "https://youtu.be/tBI63CPbW9c?si=BPFeCI2BemBV57qL",
+						"volume": 100,
+						"id": 1739,
 						"mute": false,
 						"loop": false,
 						"loop1": 20,
@@ -399,7 +471,7 @@
 			{
 				"streamName": "Quiet Music",
 				"streamIcon": "🔉",
-				"streamVolume": 26,
+				"streamVolume": 44,
 				"streamFade": true,
 				"streamFadeTime": 5,
 				"id": 7168,
@@ -444,6 +516,30 @@
 				],
 				"streamMute": true,
 				"interval": 0
+			},
+			{
+				"streamName": "Forest Ambience",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 8120,
+				"folderId": 3,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Forest Ambience",
+						"link": "https://youtu.be/F8bYaMoQ2sM?si=pkLPP3Ihnrp5Cezf",
+						"volume": 100,
+						"id": 8352,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
 			}
 		]
 	},
@@ -916,33 +1012,142 @@
 		"id": 1717353158996,
 		"streams": [
 			{
-				"streamName": "Tavern",
-				"streamIcon": "🛖",
-				"streamVolume": 11,
-				"streamFade": true,
-				"streamFadeTime": 3,
-				"id": 1740,
-				"folderId": 1717345140208,
+				"streamName": "Crowded Tavern",
+				"streamIcon": "👨‍👨‍👦",
+				"streamVolume": 26,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 947,
+				"folderId": 1717353158996,
 				"interval": 0,
 				"playing": false,
 				"streamData": [
 					{
-						"name": "Tavern/Inn Music",
-						"link": "https://youtu.be/fIuO3RpMvHg?si=0TkbjTj_dHqRrxik",
-						"volume": 22,
-						"id": 2287,
+						"name": "Crowded Tavern",
+						"link": "https://youtu.be/KecVJnJcSI4?si=1uUAnXAma6kEmzl2",
+						"volume": 100,
+						"id": 4203,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Tavern Music",
+				"streamIcon": "🎶",
+				"streamVolume": 49,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 2325,
+				"folderId": 1717353158996,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Tavern Music",
+						"link": "https://youtu.be/-54wofOV-c0?si=L2kfLG3dhZih9sAp",
+						"volume": 100,
+						"id": 8200,
 						"mute": false,
 						"loop": true,
 						"loop1": 20,
 						"loop2": 40,
 						"playing": false
-					},
+					}
+				]
+			},
+			{
+				"streamName": "Romantic Bard Music",
+				"streamIcon": "🎶",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 1265,
+				"folderId": 1717353158996,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
 					{
-						"name": "Ambience",
-						"link": "https://youtu.be/KecVJnJcSI4?si=1uUAnXAma6kEmzl2",
+						"name": "Romantic Bard Music",
+						"link": "https://youtu.be/K_ZVkVvKaEQ?si=-NjmmhAqverW-8d3",
+						"volume": 100,
+						"id": 8451,
 						"mute": false,
-						"volume": 42,
-						"id": 6130,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Um Unicórnio Entra Num Bar",
+				"streamIcon": "🎶",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 9855,
+				"folderId": 1717353158996,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Um Unicórnio Entra Num Bar",
+						"link": "https://youtu.be/0PlIwuwggM4?si=r4IPSul8uZ2aTQiD",
+						"volume": 100,
+						"id": 5521,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "New StreamTavern | D&D/TTRPG Ambience ",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 8383,
+				"folderId": 1717353158996,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Tavern | D&D/TTRPG Ambience ",
+						"link": "https://youtu.be/WOtNqISrpyY?si=c0IQrgJXQIOgdC-k",
+						"volume": 100,
+						"id": 7566,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Shady Tavern Music",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": true,
+				"streamFadeTime": 3,
+				"id": 1254,
+				"folderId": 1717353158996,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Shady Tavern Music",
+						"link": "https://www.youtube.com/watch?v=iQiUgrHqB9w",
+						"volume": 32,
+						"id": 8808,
+						"mute": false,
 						"loop": true,
 						"loop1": 20,
 						"loop2": 40,
@@ -960,7 +1165,7 @@
 			{
 				"streamName": "Ambiente",
 				"streamIcon": "😀",
-				"streamVolume": 100,
+				"streamVolume": 19,
 				"streamFade": true,
 				"streamFadeTime": 3,
 				"id": 1381,
@@ -971,7 +1176,7 @@
 					{
 						"name": "Ambiente",
 						"link": "https://youtu.be/82Qm3a3ngug?si=tlr410-yz8ZNjgPz",
-						"volume": 32,
+						"volume": 100,
 						"id": 7911,
 						"mute": false,
 						"loop": true,
@@ -984,7 +1189,7 @@
 			{
 				"streamName": "City of Thieves ",
 				"streamIcon": "😀",
-				"streamVolume": 100,
+				"streamVolume": 21,
 				"streamFade": true,
 				"streamFadeTime": 3,
 				"id": 8487,
@@ -995,7 +1200,7 @@
 					{
 						"name": "City of Thieves",
 						"link": "https://youtu.be/_RsnVOK6Fdg?si=7XDjh3Qw5MOMIxmT",
-						"volume": 32,
+						"volume": 100,
 						"id": 1199,
 						"mute": false,
 						"loop": true,
@@ -1008,7 +1213,7 @@
 			{
 				"streamName": "Musica",
 				"streamIcon": "😀",
-				"streamVolume": 100,
+				"streamVolume": 25,
 				"streamFade": true,
 				"streamFadeTime": 3,
 				"id": 6062,
@@ -1019,7 +1224,7 @@
 					{
 						"name": "Musica",
 						"link": "https://youtu.be/ddMSMwKQkKI?si=KmAK8OZlcrzAYU2Q",
-						"volume": 26,
+						"volume": 100,
 						"id": 868,
 						"mute": false,
 						"loop": true,
@@ -1032,7 +1237,7 @@
 			{
 				"streamName": "Tense Negotiations",
 				"streamIcon": "😀",
-				"streamVolume": 100,
+				"streamVolume": 32,
 				"streamFade": true,
 				"streamFadeTime": 3,
 				"id": 3175,
@@ -1043,7 +1248,7 @@
 					{
 						"name": "Tense Negotiations",
 						"link": "https://youtu.be/RPkHu8M_U4c?si=4vhk0Mtk-BSqCYC2",
-						"volume": 36,
+						"volume": 100,
 						"id": 8275,
 						"mute": false,
 						"loop": true,
@@ -1056,7 +1261,7 @@
 			{
 				"streamName": "Long Rest",
 				"streamIcon": "😀",
-				"streamVolume": 100,
+				"streamVolume": 12,
 				"streamFade": true,
 				"streamFadeTime": 3,
 				"id": 6568,
@@ -1067,7 +1272,7 @@
 					{
 						"name": "Long Rest",
 						"link": "https://youtu.be/7T3SU4Ht1Yw?si=snMBkv5rank5NmEc",
-						"volume": 20,
+						"volume": 100,
 						"id": 1345,
 						"mute": false,
 						"loop": true,
@@ -1080,7 +1285,7 @@
 			{
 				"streamName": "Suspense",
 				"streamIcon": "😀",
-				"streamVolume": 100,
+				"streamVolume": 32,
 				"streamFade": true,
 				"streamFadeTime": 3,
 				"id": 4054,
@@ -1091,8 +1296,540 @@
 					{
 						"name": "Suspense",
 						"link": "https://youtu.be/EApZmmYg_oQ?si=XG3H7j8-_ch5oymM",
-						"volume": 32,
+						"volume": 100,
 						"id": 6120,
+						"mute": false,
+						"loop": true,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Cloud City",
+				"streamIcon": "😀",
+				"streamVolume": 19,
+				"streamFade": true,
+				"streamFadeTime": 3,
+				"id": 7381,
+				"folderId": 1717353700458,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Cloud City",
+						"link": "https://youtu.be/EmDrvLHbVX8?si=FRO1sEyCm8xdS1An",
+						"volume": 100,
+						"id": 3096,
+						"mute": false,
+						"loop": true,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Ambush! Music",
+				"streamIcon": "😀",
+				"streamVolume": 17,
+				"streamFade": true,
+				"streamFadeTime": 3,
+				"id": 331,
+				"folderId": 1717353700458,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Ambush! Music",
+						"link": "https://youtu.be/8Q7cioftmKs?si=a5lj_MjxpLssnB3L",
+						"volume": 100,
+						"id": 8019,
+						"mute": false,
+						"loop": true,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Low Level Combat Music",
+				"streamIcon": "😀",
+				"streamVolume": 24,
+				"streamFade": true,
+				"streamFadeTime": 2,
+				"id": 5642,
+				"folderId": 1717353700458,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Low Level Combat Music",
+						"link": "https://youtu.be/2GX9lVHfnxs?si=aTF-PwRnEQqDxDdq",
+						"volume": 100,
+						"id": 4215,
+						"mute": false,
+						"loop": true,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Marketplace Ambience",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": true,
+				"streamFadeTime": 3,
+				"id": 4005,
+				"folderId": 1717353700458,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Marketplace Ambience",
+						"link": "https://www.youtube.com/watch?v=-r9cvBWjGKM",
+						"volume": 28,
+						"id": 9659,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Running From Guards Battle/Combat/Fight Music",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": true,
+				"streamFadeTime": 3,
+				"id": 6508,
+				"folderId": 1717353700458,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Running From Guards Battle/Combat/Fight Music",
+						"link": "https://www.youtube.com/watch?v=_rj_7rrgq9s",
+						"volume": 33,
+						"id": 2343,
+						"mute": false,
+						"loop": true,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			}
+		]
+	},
+	"1717463714954": {
+		"folderName": "General",
+		"folderColor": "#5054e9",
+		"id": 1717463714954,
+		"streams": [
+			{
+				"streamName": "The Adventure Begins",
+				"streamIcon": "1️⃣",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 6371,
+				"folderId": 1717463714954,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "The Adventure Begins",
+						"link": "https://youtu.be/Jikm8CCRbdM?si=_oj7gtZ4KgIYB7AC",
+						"volume": 100,
+						"id": 5844,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Suspense",
+				"streamIcon": "2️⃣",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 3915,
+				"folderId": 1717463714954,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Suspense",
+						"link": "https://youtu.be/EApZmmYg_oQ?si=9LH34jt-I28C8HsU",
+						"volume": 100,
+						"id": 7194,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Heist Music",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": true,
+				"streamFadeTime": 3,
+				"id": 4393,
+				"folderId": 1717463714954,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Heist Music",
+						"link": "https://www.youtube.com/watch?v=WW4bdFhcZgw",
+						"volume": 32,
+						"id": 7566,
+						"mute": false,
+						"loop": true,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			}
+		]
+	},
+	"1717812762973": {
+		"folderName": "Cave",
+		"folderColor": "#000000",
+		"id": 1717812762973,
+		"streams": [
+			{
+				"streamName": "Cave Ambience ",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 5961,
+				"folderId": 1717812762973,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Cave Ambience ",
+						"link": "https://youtu.be/OtfgXgclSxU?si=d1cQTw2w0dlAlX9w",
+						"volume": 46,
+						"id": 1754,
+						"mute": false,
+						"loop": true,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			}
+		]
+	},
+	"1717812874271": {
+		"folderName": "Start",
+		"folderColor": "#000000",
+		"id": 1717812874271,
+		"streams": [
+			{
+				"streamName": "Session Zero Music",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 1566,
+				"folderId": 1717812874271,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Session Zero Music",
+						"link": "https://youtu.be/dxwJuo_KejY?si=0OnmNZIlhEFiTfoY",
+						"volume": 100,
+						"id": 4761,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "The Party Reunites Music",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": true,
+				"streamFadeTime": 0,
+				"id": 9451,
+				"folderId": 1717812874271,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "The Party Reunites Music",
+						"link": "https://www.youtube.com/watch?v=33iGWNJg73U",
+						"volume": 29,
+						"id": 8338,
+						"mute": false,
+						"loop": true,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			}
+		]
+	},
+	"1717854735591": {
+		"folderName": "Desert",
+		"folderColor": "#a29b6b",
+		"id": 1717854735591,
+		"streams": [
+			{
+				"streamName": "Arabian Nights",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": true,
+				"streamFadeTime": 3,
+				"id": 9375,
+				"folderId": 1717854735591,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Arabian Nights",
+						"link": "https://www.youtube.com/watch?v=_38NQhaqs6g",
+						"volume": 29,
+						"id": 3846,
+						"mute": false,
+						"loop": true,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Desert Excursion Music",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": true,
+				"streamFadeTime": 3,
+				"id": 8388,
+				"folderId": 1717854735591,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Desert Excursion Music",
+						"link": "https://www.youtube.com/watch?v=maYRisfQQvc",
+						"volume": 35,
+						"id": 65,
+						"mute": false,
+						"loop": true,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "City in the Desert Music",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": true,
+				"streamFadeTime": 3,
+				"id": 2927,
+				"folderId": 1717854735591,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "City in the Desert Music",
+						"link": "https://www.youtube.com/watch?v=r-NDPBWqixs",
+						"volume": 32,
+						"id": 8578,
+						"mute": false,
+						"loop": true,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Desert Ruins Music",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": true,
+				"streamFadeTime": 3,
+				"id": 785,
+				"folderId": 1717854735591,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Desert Ruins Music",
+						"link": "https://www.youtube.com/watch?v=46w8MRZKj64",
+						"volume": 29,
+						"id": 2692,
+						"mute": false,
+						"loop": true,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Tavern in a Desert Music",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": true,
+				"streamFadeTime": 3,
+				"id": 4814,
+				"folderId": 1717854735591,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Tavern in a Desert Music",
+						"link": "https://www.youtube.com/watch?v=dhA8BtU8MaI",
+						"volume": 35,
+						"id": 6874,
+						"mute": false,
+						"loop": true,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Tavern Dance Music",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": true,
+				"streamFadeTime": 3,
+				"id": 7957,
+				"folderId": 1717854735591,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Tavern Dance Music",
+						"link": "https://www.youtube.com/watch?v=JyyQlYRqvRs&list=PLPkQh2SAuabEi2pGCrbE14Zl-x8yW2EgJ",
+						"volume": 32,
+						"id": 6416,
+						"mute": false,
+						"loop": true,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Wasteland Music",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": true,
+				"streamFadeTime": 3,
+				"id": 9405,
+				"folderId": 1717854735591,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Wasteland Music",
+						"link": "https://www.youtube.com/watch?v=ONkPzf5EdSQ",
+						"volume": 33,
+						"id": 9001,
+						"mute": false,
+						"loop": true,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Bazaar | Oriental Market, Trade, Camels, Spices, Music, Ambience",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": false,
+				"streamFadeTime": 0,
+				"id": 8504,
+				"folderId": 1717854735591,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Bazaar | Oriental Market, Trade, Camels, Spices, Music, Ambience",
+						"link": "https://www.youtube.com/watch?v=8uRtW8lBe0I",
+						"volume": 100,
+						"id": 7870,
+						"mute": false,
+						"loop": false,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Windy Desert Ambience",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": true,
+				"streamFadeTime": 3,
+				"id": 6668,
+				"folderId": 1717854735591,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Windy Desert Ambience",
+						"link": "https://www.youtube.com/watch?v=4E-_Xpj0Mgo",
+						"volume": 33,
+						"id": 2396,
+						"mute": false,
+						"loop": true,
+						"loop1": 20,
+						"loop2": 40,
+						"playing": false
+					}
+				]
+			},
+			{
+				"streamName": "Desert City Music",
+				"streamIcon": "😀",
+				"streamVolume": 100,
+				"streamFade": true,
+				"streamFadeTime": 3,
+				"id": 8365,
+				"folderId": 1717854735591,
+				"interval": 0,
+				"playing": false,
+				"streamData": [
+					{
+						"name": "Desert City Music",
+						"link": "https://www.youtube.com/watch?v=OGb_78hhJzE",
+						"volume": 33,
+						"id": 2916,
 						"mute": false,
 						"loop": true,
 						"loop1": 20,
